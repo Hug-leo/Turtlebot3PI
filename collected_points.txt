@@ -1,1 +1,0 @@
-WARNING: topic [/clicked_point] does not appear to be published yet
