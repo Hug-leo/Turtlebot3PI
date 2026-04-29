@@ -24,7 +24,7 @@ setup(
         "console_scripts": [
             "diff_drive_controller = agv_controller.diff_drive_controller:main",
             "warehouse_mission = agv_controller.warehouse_mission_node:main",
-            "qr_scanner = agv_controller.qr_scanner_node:main",
+            "pi_qr_scanner = agv_controller.pi_qr_scanner:main",
             "slam_manager = agv_controller.slam_manager_node:main",
         ],
     },
